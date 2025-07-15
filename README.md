@@ -12,10 +12,11 @@ This repository serves as a personal knowledge base, collecting websites and art
 
 ### 📂 Data Structures
 - [IBM – Data Structures Overview](https://www.ibm.com/think/topics/data-structure)
-<!---
-### 💻 Algorithms
-- _[add link here]_
 
+### 💻 Algorithms
+- [BIG O](https://www.geeksforgeeks.org/dsa/analysis-algorithms-big-o-analysis/)
+- [BIG O](https://www.savemyexams.com/a-level/computer-science/ocr/17/revision-notes/8-algorithms/8-1-algorithms/big-o-notation/)
+<!---
 ### 🧠 System Design
 - _[add link here]_
 
