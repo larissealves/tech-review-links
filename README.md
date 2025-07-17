@@ -14,8 +14,13 @@ This repository serves as a personal knowledge base, collecting websites and art
 - [IBM – Data Structures Overview](https://www.ibm.com/think/topics/data-structure)
 
 ### 💻 Algorithms
+- [Algorithm](https://www.datacamp.com/blog/what-is-an-algorithm)
 - [BIG O](https://www.geeksforgeeks.org/dsa/analysis-algorithms-big-o-analysis/)
 - [BIG O](https://www.savemyexams.com/a-level/computer-science/ocr/17/revision-notes/8-algorithms/8-1-algorithms/big-o-notation/)
+
+### 💻 Programming Paradigms
+- [Programming paradigms](https://www.bbc.co.uk/bitesize/guides/zc8pjty/revision/1)
+- [Paradigmas de programação (pt - BR)](https://tripleten.com.br/blog/paradigmas-de-programacao-o-que-sao-e-quais-os-principais/)
 <!---
 ### 🧠 System Design
 - _[add link here]_
