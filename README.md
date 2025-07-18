@@ -2,7 +2,7 @@
 
 A curated collection of links to trusted resources that explain core IT and computer science topics. Ideal for quick review, study, or interview prep.
 
-## 📌 Purpose
+## 📌 Purpose 
 
 This repository serves as a personal knowledge base, collecting websites and articles that clearly explain technical concepts in a concise and accessible way.
 
